@@ -1,0 +1,42 @@
+img {
+    width: 70px;
+    height: 70px;
+    object-fit: cover;
+    border-radius: 50%;
+  }
+ 
+  .profile-card {
+    text-align: center;
+    padding: 0 20px 20px 20px;
+    
+  }
+  .mat-expansion-panel-spacing {
+    margin: 0px;
+  }
+  .mat-expansion-panel {
+    border-radius: 0px !important;
+    box-shadow: none !important;
+
+    
+  }
+  .mat-expansion-panel-body {
+    padding: 0px;
+  }
+  .mat-expansion-panel-header {
+    height: 40px;
+    padding: 0px 24px 0px 16px;
+  }
+  .mat-expansion-panel-header-title {
+    color: rgba(201, 66, 66, 0.87);
+    
+    font-size: 14px;
+    font-weight: 500;
+  }
+ 
+  .mat-nav-list{
+    background-color: rgb(240, 211, 211);
+  }
+
+
+  
+  
