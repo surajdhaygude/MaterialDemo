@@ -22,6 +22,7 @@ import { HomeComponent } from './home/home.component';
 import { SidenavComponent } from './sidenav/sidenav.component';
 import { NursedashboardComponent } from './nursedashboard/nursedashboard.component';
 import { PhysiciandashboardComponent } from './physiciandashboard/physiciandashboard.component';
+import { DemoComponent } from './demo/demo.component';
 
 @NgModule({
   declarations: [
@@ -40,7 +41,8 @@ import { PhysiciandashboardComponent } from './physiciandashboard/physiciandashb
     HomeComponent,
     SidenavComponent,
     NursedashboardComponent,
-    PhysiciandashboardComponent
+    PhysiciandashboardComponent,
+    DemoComponent
   ],
   imports: [
     BrowserModule,
